@@ -1,6 +1,6 @@
 ## Old downloads list ##
 
-download: https://github.com/BetterWorldGeneration/Old-Downloads/archive/master.zip
+**download:** https://github.com/BetterWorldGeneration/Old-Downloads/archive/master.zip
 
     Better World Generation 1
     1.0.0 (MC 1.1)   "02-03-2012"
